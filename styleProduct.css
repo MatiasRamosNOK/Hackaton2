@@ -1,0 +1,31 @@
+.form-group {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.contenedorInfo {
+    margin: 10px;
+}
+
+@media(max-width:768px) {
+
+
+    #formulario {
+        margin: 0 auto;
+        width: 80%;
+    }
+
+    .form-group {
+        margin: 0 auto;
+    }
+
+    .form-control {
+        width: 100%;
+    }
+
+    #inputInfo {
+        width: 100%;
+    }
+
+
+}
